@@ -1,7 +1,7 @@
 # OOP Project – CS-204 Assignment
 
 ## Project Description
-This project demonstrates key OOP concepts such as classes, inheritance, and polymorphism using C++.
+This project demonstrates key OOP concepts such as classes, inheritance, and polymorphism using oop in java.
 
 ## Team Members
 - Salman Ahmed Turk
